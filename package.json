@@ -28,6 +28,7 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.3",
     "jest": "^27.3.1",
+    "nodemon": "^2.0.22",
     "sequelize-cli": "^6.3.0",
     "sequelize-fixtures": "^1.2.0",
     "superagent": "^6.1.0",
